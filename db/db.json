@@ -1,0 +1,232 @@
+{
+    "test": "Hello World!",
+    "frameworks": {
+        "vue": {
+            "description": "Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+            "id": "d5b2fecd-1941-4990-bae0-ad61b6da5817",
+            "imageUrl": " https://vuejs.org/images/logo.svg",
+            "stars": 177000,
+            "github": "https://github.com/vuejs/vue",
+            "active": true
+        },
+        "react": {
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+            "id": "c5865e05-ee69-407c-9161-ecd4ae513d8b",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+            "stars": 161000,
+            "github": "https://github.com/facebook/react",
+            "active": true
+        },
+        "angular": {
+            "description": "The modern web developer’s platform ",
+            "id": "67bf79de-1cb0-41bf-8899-ce2ba3626b30",
+            "imageUrl": "https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png",
+            "stars": 68900,
+            "github": "https://github.com/angular/angular",
+            "active": true
+        },
+        "svelte": {
+            "description": "Cybernetically enhanced web apps",
+            "id": "2ac1dc3f-5a46-47da-93ae-2416acbe13a8",
+            "imageUrl": "https://github.com/sveltejs/branding/blob/master/svelte-logo.png?raw=true",
+            "stars": 40500,
+            "github": "https://github.com/sveltejs/svelte",
+            "active": true
+        },
+        "preact": {
+            "description": "Fast 3kB React alternative with the same modern API. Components & Virtual DOM. ",
+            "id": "13802849-7e74-46d3-b9f6-885e6e08e188",
+            "imageUrl": "https://preactjs.com/assets/app-icon.png",
+            "stars": 27900,
+            "github": "https://github.com/preactjs/preact",
+            "active": true
+        },
+        "ember": {
+            "description": "Ember.js - A JavaScript framework for creating ambitious web applications",
+            "id": "9181b6f5-9674-47a3-b828-b5ddf04fe60f",
+            "imageUrl": "https://raw.githubusercontent.com/emberjs/website/master/source/images/brand/ember_Ember-Light.png",
+            "github": "https://github.com/emberjs/ember.js",
+            "stars": 21700,
+            "active": true
+        },
+        "hyperapp": {
+            "description": "The tiny framework for building hypertext applications.",
+            "id": "f25ca22f-fdb2-412b-a2f0-9c386338c7a2",
+            "stars": 18200,
+            "github": "https://github.com/jorgebucaran/hyperapp",
+            "active": true
+        },
+        "inferno": {
+            "description": "An extremely fast, React-like JavaScript library for building modern user interfaces",
+            "id": "c059424c-4134-4641-9ecb-50eea43685c6",
+            "imageUrl": "https://user-images.githubusercontent.com/2021355/36063342-626d7ea8-0e84-11e8-84e1-f22bb3b8c4d5.png",
+            "stars": 14600,
+            "github": "https://github.com/infernojs/inferno",
+            "active": true
+        },
+        "riot": {
+            "description": "Simple and elegant component-based UI library",
+            "id": "b8565843-6321-44a1-a510-50cb2cf498a1",
+            "imageUrl": "https://camo.githubusercontent.com/8c1e2d17e46e05a30c5a9f5812def09ee5c36469697e559bb8cbcd94feef3903/68747470733a2f2f72696f742e6a732e6f72672f696d672f6c6f676f2f72696f742d6c6f676f2e737667",
+            "stars": 14400,
+            "github": "https://github.com/riot/riot",
+            "active": true
+        },
+        "yew": {
+            "description": "Rust / Wasm framework for building client web apps ",
+            "id": "2f6c5975-8c6e-44ac-bbc8-b724e7b97698",
+            "imageUrl": "https://camo.githubusercontent.com/e586b9db8206c4084cf74092c94981b1973f6c8837c7d7208200abb77f43813f/68747470733a2f2f7965772e72732f696d672f6c6f676f2e706e67",
+            "stars": 14200,
+            "github": "https://github.com/yewstack/yew",
+            "active": true
+        },
+        "Mithril": {
+            "description": "nope",
+            "id": "nope",
+            "imageUrl": "nope",
+            "stars": 12500,
+            "github": "nope",
+            "active": false
+        },
+        "Alpine": {
+            "description": "nope",
+            "id": "nope",
+            "imageUrl": "nope",
+            "stars": 12400,
+            "github": "nope",
+            "active": false
+        },
+        "Knockout": {
+            "description": "nope",
+            "id": "nope",
+            "imageUrl": "nope",
+            "stars": 9900,
+            "github": "nope",
+            "active": false
+        },
+        "Marko": {
+            "description": "nope",
+            "id": "nope",
+            "imageUrl": "nope",
+            "stars": 9900,
+            "github": "nope",
+            "active": false
+        },
+        "Rax": {
+            "description": "nope",
+            "id": "nope",
+            "imageUrl": "nope",
+            "stars": 7000,
+            "github": "nope",
+            "active": false
+        },
+        "lit-html": {
+            "description": "nope",
+            "id": "nope",
+            "imageUrl": "nope",
+            "stars": 6900,
+            "github": "nope",
+            "active": false
+        },
+        "Elm": {
+            "description": "nope",
+            "id": "nope",
+            "imageUrl": "nope",
+            "stars": 6200,
+            "github": "nope",
+            "active": false
+        },
+        "Ractive": {
+            "description": "nope",
+            "id": "nope",
+            "imageUrl": "nope",
+            "stars": 5800,
+            "github": "nope",
+            "active": false
+        },
+        "Solid": {
+            "description": "nope",
+            "id": "nope",
+            "imageUrl": "nope",
+            "stars": 4700,
+            "github": "nope",
+            "active": false
+        },
+        "Imba": {
+            "description": "nope",
+            "id": "nope",
+            "imageUrl": "nope",
+            "stars": 4100,
+            "github": "nope",
+            "active": false
+        }
+    },
+    "languages": {
+        "typescript": {
+            "id": "eb331c72-66c3-422c-85f4-fbb4848a3938",
+            "imageUrl": "https://www.typescriptlang.org/images/branding/logo-grouping.svg",
+            "frameworks": [
+                "c5865e05-ee69-407c-9161-ecd4ae513d8b",
+                "67bf79de-1cb0-41bf-8899-ce2ba3626b30",
+                "2ac1dc3f-5a46-47da-93ae-2416acbe13a8",
+                "13802849-7e74-46d3-b9f6-885e6e08e188",
+                "9181b6f5-9674-47a3-b828-b5ddf04fe60f"
+            ]
+        },
+        "javascript": {
+            "id": "abc195a6-8e6a-41c6-9c8c-69a4b70daa80",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png",
+            "frameworks": [
+                "d5b2fecd-1941-4990-bae0-ad61b6da5817",
+                "c5865e05-ee69-407c-9161-ecd4ae513d8b",
+                "67bf79de-1cb0-41bf-8899-ce2ba3626b30",
+                "2ac1dc3f-5a46-47da-93ae-2416acbe13a8",
+                "13802849-7e74-46d3-b9f6-885e6e08e188",
+                "9181b6f5-9674-47a3-b828-b5ddf04fe60f",
+                "f25ca22f-fdb2-412b-a2f0-9c386338c7a2",
+                "c059424c-4134-4641-9ecb-50eea43685c6",
+                "b8565843-6321-44a1-a510-50cb2cf498a1",
+                "2f6c5975-8c6e-44ac-bbc8-b724e7b97698"
+            ]
+        },
+        "html": {
+            "id": "f700443c-3157-4be6-8c21-4d6b4aac042e",
+            "imageUrl": "https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg",
+            "frameworks": [
+                "c5865e05-ee69-407c-9161-ecd4ae513d8b",
+                "67bf79de-1cb0-41bf-8899-ce2ba3626b30",
+                "13802849-7e74-46d3-b9f6-885e6e08e188"
+            ]
+        },
+        "css": {
+            "id": "ed6c794b-41b0-4ed7-a149-92a1bee3f026",
+            "imageUrl": "https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg",
+            "frameworks": [
+                "c5865e05-ee69-407c-9161-ecd4ae513d8b",
+                "67bf79de-1cb0-41bf-8899-ce2ba3626b30"
+            ]
+        },
+        "scss": {
+            "id": "84596f6a-4ac2-454e-a3c7-474c2934830c",
+            "imageUrl": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)#/media/File:Sass_Logo_Color.svg",
+            "frameworks": [
+                "67bf79de-1cb0-41bf-8899-ce2ba3626b30"
+            ]
+        },
+        "svelte": {
+            "id": "a7b8db45-700c-4797-a075-a6e06143e0f8",
+            "imageUrl": "https://en.wikipedia.org/wiki/Svelte#/media/File:Svelte_Logo.svg",
+            "frameworks": [
+                "2ac1dc3f-5a46-47da-93ae-2416acbe13a8"
+            ]
+        },
+        "rust": {
+            "id": "33822275-447c-4151-94eb-4d11151b021e",
+            "imageUrl": "https://en.wikipedia.org/wiki/Rust_(programming_language)#/media/File:Rust_programming_language_black_logo.svg",
+            "frameworks": [
+                "2f6c5975-8c6e-44ac-bbc8-b724e7b97698"
+            ]
+        }
+    },
+    "githubLogo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+}

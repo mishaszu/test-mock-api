@@ -1,0 +1,42 @@
+{
+    "name": "test-mock-api",
+    "version": "1.0.0",
+    "description": "mocked expressjs api for testing",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "src/index.js",
+        "dev": "nodemon --inspect src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mishaszu/test-mock-api.git"
+    },
+    "keywords": [
+        "node",
+        "express",
+        "api",
+        "test",
+        "mock"
+    ],
+    "author": "mishaszu@gmail.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mishaszu/test-mock-api/issues"
+    },
+    "homepage": "https://github.com/mishaszu/test-mock-api#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "node-json-db": "^1.4.1",
+        "ramda": "^0.27.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    },
+    "nodemonConfig": {
+        "ignore": [
+            "db/*",
+            "src/db.json"
+        ]
+    }
+}
