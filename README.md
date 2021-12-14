@@ -43,11 +43,13 @@ Schema:
 Url: `/api/languages`
 ```ts
 {
-    "language": string,
-    "id": string,
-    "imageUrl": string,
-    "frameworks": string[]
-}[]
+  [key: string]: {
+      "language": string,
+      "id": string,
+      "imageUrl": string,
+      "frameworks": string[]
+  }
+}
 ```
 
 ### Get single language:
