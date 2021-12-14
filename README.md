@@ -8,13 +8,15 @@ Url: `/api/frameworks`
 Schema:
 ```ts
 {
-  "description": string
-  "id": string,
-  "imageUrl": string,
-  "stars": number,
-  "github": string,
-  "active": boolean
-}[]
+  [key: string]: {
+    "description": string
+    "id": string,
+    "imageUrl": string,
+    k"stars": number,
+    "github": string,
+    "active": boolean
+  }
+}
 ```
 
 ### Get single framework:
