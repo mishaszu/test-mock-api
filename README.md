@@ -6,9 +6,11 @@ Unfortunately at the moment application requires `npm install --legacy-peer-deps
 
 ## Start:
 BE: `npm run start:be`
+
 FE: `npm run start:fe`
 
 BE runs on port 4000
+
 FE runs on port 8080
 
 FE configuration includes craco config to proxy `/api` requests to BE.
