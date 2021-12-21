@@ -24,7 +24,7 @@ Schema:
     "description": string
     "id": string,
     "imageUrl": string,
-    k"stars": number,
+    "stars": number,
     "github": string,
     "active": boolean
   }
