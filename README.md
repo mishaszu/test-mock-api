@@ -1,6 +1,13 @@
 # test-mock-api
 Simple mock express.js api
 
+## Install
+Unfotunatelly at the moment application requires `npm install --legacy-peer-deps` to install. Craco doesn't much with the latest CRA 5.0.0 at the moment.
+
+## Start:
+BE: `npm run start:be`
+FE: `npm run start:fe`
+
 ## Endpoints
 
 ### Get all frameworks:
